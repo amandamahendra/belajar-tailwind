@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --color-mahen: #F5EFE6;
+    --font-inter: "Inter"; 
+}
+
